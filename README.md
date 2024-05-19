@@ -1,4 +1,6 @@
 # POORELOAD
+![Uploading image.png…]()
+
 **Vamos usar esse readme para:**
 - Anotações(Com data do dia)
 - Prints

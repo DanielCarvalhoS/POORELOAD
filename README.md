@@ -7,7 +7,7 @@
 - Colários
 - Guardar e atualizar as atividades 
 
-## Anotações
+## Anotações `rgb(9, 105, 218)`
 
 ## Prints
 

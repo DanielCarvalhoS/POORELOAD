@@ -6,3 +6,9 @@
 - Prints
 - Colários
 - Guardar e atualizar as atividades 
+
+# Anotações
+
+# Prints
+
+# Colários

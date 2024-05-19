@@ -7,8 +7,8 @@
 - Colários
 - Guardar e atualizar as atividades 
 
-# Anotações
+## Anotações
 
-# Prints
+## Prints
 
-# Colários
+## Colários

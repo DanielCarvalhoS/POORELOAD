@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\TreinoPrimeiro\TreinoPrimeiro\bin\Debug\TreinoPrimeiro.exe.config
+C:\Users\Pichau\source\repos\TreinoPrimeiro\TreinoPrimeiro\bin\Debug\TreinoPrimeiro.exe
+C:\Users\Pichau\source\repos\TreinoPrimeiro\TreinoPrimeiro\bin\Debug\TreinoPrimeiro.pdb
+C:\Users\Pichau\source\repos\TreinoPrimeiro\TreinoPrimeiro\obj\Debug\TreinoPrimeiro.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\TreinoPrimeiro\TreinoPrimeiro\obj\Debug\TreinoPrimeiro.Properties.Resources.resources
+C:\Users\Pichau\source\repos\TreinoPrimeiro\TreinoPrimeiro\obj\Debug\TreinoPrimeiro.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\TreinoPrimeiro\TreinoPrimeiro\obj\Debug\TreinoPrimeiro.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\TreinoPrimeiro\TreinoPrimeiro\obj\Debug\TreinoPrimeiro.exe
+C:\Users\Pichau\source\repos\TreinoPrimeiro\TreinoPrimeiro\obj\Debug\TreinoPrimeiro.pdb
+C:\Users\Pichau\source\repos\TreinoPrimeiro\TreinoPrimeiro\obj\Debug\TreinoPrimeiro.frmTeste.resources
+C:\Users\Pichau\source\repos\TreinoPrimeiro\TreinoPrimeiro\obj\Debug\TreinoPrimeiro.frmMidia.resources
+C:\Users\Pichau\source\repos\TreinoPrimeiro\TreinoPrimeiro\obj\Debug\TreinoPrimeiro.frmSalario.resources
+C:\Users\Pichau\source\repos\TreinoPrimeiro\TreinoPrimeiro\obj\Debug\TreinoPrimeiro.frmNadadores.resources
+C:\Users\Pichau\source\repos\TreinoPrimeiro\TreinoPrimeiro\obj\Debug\TreinoPrimeiro.frmFuncionarios.resources
+C:\Users\Pichau\source\repos\TreinoPrimeiro\TreinoPrimeiro\obj\Debug\TreinoPrimeiro.frmFatoracao.resources
